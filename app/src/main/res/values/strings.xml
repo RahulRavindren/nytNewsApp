@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PomeloAssignment</string>
+    <string name="home">home</string>
+    <string name="detail">detail</string>
+    <string name="searchHint">"Search for articles "</string>
+</resources>
