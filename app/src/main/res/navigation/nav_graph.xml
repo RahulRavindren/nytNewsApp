@@ -21,7 +21,7 @@
         tools:layout="@layout/fragment_detail">
         <argument
             android:name="articleData"
-            app:argType="com.pomeloassignment.android.model.ArticleEntity"
+            app:argType="com.pomeloassignment.android.db.ArticleEntity"
             app:nullable="false" />
     </fragment>
 
